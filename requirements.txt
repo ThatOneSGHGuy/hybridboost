@@ -1,0 +1,9 @@
+pandas~=1.4.2
+joblib~=1.1.0
+lightgbm~=3.3.5
+xgboost~=2.0.0
+loguru~=0.7.2
+scikit-learn~=1.0.2
+prophet~=1.1.2
+numpy~=1.22.4
+tqdm~=4.64.0
